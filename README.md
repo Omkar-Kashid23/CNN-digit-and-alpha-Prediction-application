@@ -94,7 +94,7 @@ It provides two easy-to-use input methods:
 
 ## 👨‍💻 Author
 
-**Abhishek Tadaskar**
+**Omkar Kashid**
 
 AI & Data Science Enthusiast
 
